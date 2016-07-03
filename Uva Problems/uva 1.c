@@ -20,5 +20,7 @@ int main()
         printf("%lld\n", ans);
     }
 
+    printf("Hudai");
+
     return 0;
 }
