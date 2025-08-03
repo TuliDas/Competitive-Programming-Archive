@@ -1,8 +1,11 @@
-// Language    : C++ 17
-// Problem Name: LeetCode - 983. Minimum Cost For Tickets
-// Prolem Link : https://leetcode.com/problems/minimum-cost-for-tickets/
-// Verdict     : ACCEPTED
-// Roll        : 1507064
+/*
+Problem Name : LeetCode - 983. Minimum Cost For Tickets
+Problem Link : https://leetcode.com/problems/minimum-cost-for-tickets/
+Language     : C++ 17
+Verdict      : ACCEPTED
+Solved on    : June 28, 2021
+*/
+
 class Solution
 {
 public:
