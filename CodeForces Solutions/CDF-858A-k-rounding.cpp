@@ -1,5 +1,5 @@
 /*
-Problem Name : CDF - 858A - k-rounding
+Problem Name : CDF-858A-k-rounding
 Problem Link : https://codeforces.com/problemset/problem/858/A
 Language     : C++
 Verdict      : ACCEPTED
